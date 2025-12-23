@@ -1,0 +1,22 @@
+[
+  { "id": 1, "dims": [20, 20, 20], "type": "standard_box" },
+  { "id": 2, "dims": [20, 20, 20], "type": "standard_box" },
+  { "id": 3, "dims": [20, 20, 20], "type": "standard_box" },
+  { "id": 4, "dims": [50, 50, 10], "type": "flat_panel" },
+  { "id": 5, "dims": [50, 50, 10], "type": "flat_panel" },
+  { "id": 6, "dims": [10, 10, 60], "type": "long_beam" },
+  { "id": 7, "dims": [10, 10, 60], "type": "long_beam" },
+  { "id": 8, "dims": [30, 30, 30], "type": "large_crate" },
+  { "id": 9, "dims": [30, 30, 30], "type": "large_crate" },
+  { "id": 10, "dims": [15, 15, 15], "type": "medium_cube" },
+  { "id": 11, "dims": [15, 15, 15], "type": "medium_cube" },
+  { "id": 12, "dims": [15, 15, 15], "type": "medium_cube" },
+  { "id": 13, "dims": [15, 15, 15], "type": "medium_cube" },
+  { "id": 14, "dims": [5, 5, 5], "type": "small_filler" },
+  { "id": 15, "dims": [5, 5, 5], "type": "small_filler" },
+  { "id": 16, "dims": [5, 5, 5], "type": "small_filler" },
+  { "id": 17, "dims": [5, 5, 5], "type": "small_filler" },
+  { "id": 18, "dims": [40, 10, 10], "type": "long_box" },
+  { "id": 19, "dims": [40, 10, 10], "type": "long_box" },
+  { "id": 20, "dims": [25, 25, 10], "type": "flat_box" }
+]
